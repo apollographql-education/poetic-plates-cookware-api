@@ -7,6 +7,10 @@ const { GraphQLError } = require("graphql");
 const resolvers = require("./resolvers");
 const { addMocksToSchema } = require("@graphql-tools/mock");
 const { makeExecutableSchema } = require("@graphql-tools/schema");
+const {
+  ApolloServerPluginLandingPageLocalDefault,
+  ApolloServerPluginLandingPageProductionDefault,
+} = require("@apollo/server/plugin/landingPage/default");
 
 const port = process.env.PORT ?? 4002;
 const subgraphName = require("../package.json").name;
@@ -22,6 +26,14 @@ async function main() {
   const mockedSchema = addMocksToSchema({ schema, preserveResolvers: true });
   const server = new ApolloServer({
     schema: mockedSchema,
+    introspection: true,
+    plugins: [
+      process.env.NODE_ENV === "production"
+        ? ApolloServerPluginLandingPageProductionDefault({
+            footer: false,
+          })
+        : ApolloServerPluginLandingPageLocalDefault({ footer: false }),
+    ],
   });
   const { url } = await startStandaloneServer(server, {
     context: async ({ req }) => {

@@ -1,0 +1,18 @@
+extend schema
+  @link(url: "https://specs.apollo.dev/federation/v2.3", import: ["@key"])
+
+type Query {
+  "A list of all cookware"
+  allCookware: [Cookware]
+  "Find a specific cookware using its name"
+  cookware(name: String): Cookware
+}
+
+type Cookware @key(fields: "name") {
+  "The name of the cookware, typically includes the material it's made of. For example: aluminum frying pan"
+  name: String!
+  "A description of the cookware, what it looks like and what it's typically used for."
+  description: String
+  "Detailed instructions on how to clean the cookware"
+  cleaningInstructions: [String]
+}

@@ -1,0 +1,224 @@
+[
+  {
+    "id": "rec2TNzjqIjZ5DYIq",
+    "createdTime": "2023-05-02T22:30:48.000Z",
+    "fields": {
+      "cleaningInstructions": "1. To clean a paella pan, let it cool completely before washing with warm, soapy water and a soft sponge or cloth. Avoid using abrasive cleaners or steel wool, as they can scratch the surface of the pan. Dry the pan thoroughly after washing and store it in a dry place. If the pan has a non-stick coating, be sure to use wooden or plastic utensils to avoid scratching the surface.\n",
+      "category": "PAN",
+      "name": "stainless steel paella pan",
+      "cookwareType": "paella pan",
+      "description": "A paella pan is a large, flat pan with a wide base and low, sloping sides that is traditionally used to make paella, a Spanish rice dish. It is typically made of carbon steel or stainless steel, and may also have a non-stick coating. The wide base of the pan allows for the rice to cook evenly and develop a crispy crust at the bottom, while the low sides help to prevent the rice from steaming and becoming mushy.\n\n",
+      "material": "stainless steel"
+    }
+  },
+  {
+    "id": "rec7sIYHhnTDdaYIn",
+    "createdTime": "2023-05-02T22:23:47.000Z",
+    "fields": {
+      "cleaningInstructions": "1. Allow the pan to cool completely before cleaning.\n2. Wipe the interior of the pan with a paper towel or soft sponge to remove any loose food particles.\n3. Fill the pan with warm water and add a few drops of dish soap.\n4. Use a soft sponge or cloth to scrub the interior of the pan, avoiding any abrasive materials or harsh scrubbers that could damage the nonstick coating.\n5. Rinse the pan thoroughly with warm water, making sure to remove all soap residue.\n6. Dry the pan with a soft towel or allow it to air dry.\n",
+      "category": "PAN",
+      "name": "nonstick saute pan",
+      "cookwareType": "saute pan",
+      "description": "surface that prevents food from sticking. This type of pan is typically deeper than a frying pan and has straight sides, making it ideal for cooking a variety of foods such as vegetables, meats, and sauces.\n\nNonstick saute pans come in different sizes, from small ones used for cooking single portions, to larger ones used for cooking for families or larger groups. ",
+      "material": "nonstick"
+    }
+  },
+  {
+    "id": "rec9DRDZWGUdZLaZY",
+    "createdTime": "2023-05-02T22:36:01.000Z",
+    "fields": {
+      "cleaningInstructions": "1. Rinse it with warm water and soap after each use. \n2. Do not soak it in water, as this can cause the wood to swell and crack. Instead, wipe it clean with a damp cloth or sponge and let it air dry. \n3. To remove any lingering odors, you can rub the ladle with a slice of lemon or a mixture of baking soda and water, then rinse and dry as usual. \n4. It is also a good idea to periodically treat wooden utensils with food-grade mineral oil to help maintain their appearance and prevent cracking.\n",
+      "category": "TOOL",
+      "name": "wooden ladles",
+      "cookwareType": "ladle",
+      "description": "Wooden ladles are kitchen utensils used for serving soups, stews, and sauces. They are typically made of wood, such as maple, beech, or bamboo, which is durable, heat-resistant, and non-reactive. The handle of a wooden ladle is usually long and curved, making it easy to grip and use for stirring or scooping.",
+      "material": "wood"
+    }
+  },
+  {
+    "id": "recF47oHMRAaOpvZW",
+    "createdTime": "2023-05-02T22:31:27.000Z",
+    "fields": {
+      "cleaningInstructions": "1. To clean a crepe pan, let it cool completely before washing with warm, soapy water and a soft sponge or cloth. \n2. Dry the pan thoroughly after washing and store it in a dry place.\n",
+      "category": "PAN",
+      "name": "stainless steel crepe pan",
+      "cookwareType": "crepe pan",
+      "description": "A crepe pan is a shallow, flat pan with a wide base and low sides, specifically designed for making thin, delicate crepes. The low sides of the pan make it easy to flip and remove crepes without tearing them.",
+      "material": "stainless steel"
+    }
+  },
+  {
+    "id": "recFbKT8gBBlFQQVD",
+    "createdTime": "2023-05-02T22:18:05.000Z",
+    "fields": {
+      "cleaningInstructions": "1. Use a plastic or wooden utensil to remove any remaining food particles.\n2. Let the stockpot soak for a few minutes to loosen any stubborn food particles.\n3. Scrub the inside and outside of the stockpot using a non-abrasive sponge or cloth. Pay special attention to any areas with stuck-on food.\n4. Rinse the stockpot thoroughly with warm water, making sure to remove all soap residue.\n5. Dry the stockpot with a soft towel or allow it to air dry.\n6. For any stubborn stains or discolorations, you can try using a mixture of equal parts water and vinegar. Apply the solution to the stain and let it sit for a few minutes before wiping it clean with a soft cloth.\n7. Avoid using abrasive cleaners or steel wool, as these can scratch the surface of the stockpot.\n\n",
+      "category": "POT",
+      "name": "stainless steel stockpot",
+      "cookwareType": "stockpot",
+      "description": "A stainless steel stockpot is a large, deep pot typically used for making soups, stews, and stocks. These pots are usually made from high-quality stainless steel and are designed to handle large quantities of food. They come in various sizes, with the larger ones often having handles on either side for easier handling.\n\n",
+      "material": "stainless steel",
+      "Recipes": ["reccLrNYfWJjCCW9t", "recT7ayISKSz9C8un", "receIrmoKJh6BVi9v"]
+    }
+  },
+  {
+    "id": "recLyCPZVuPnWX7Q6",
+    "createdTime": "2023-05-02T22:12:29.000Z",
+    "fields": {
+      "cleaningInstructions": "1. Let the pan cool down: Never clean an aluminum frying pan while it's still hot. Let it cool down to room temperature first.\n2. Remove any food residue: Use a soft plastic or silicone spatula to scrape off any food residue. Avoid using metal utensils or abrasive scrubbers that can scratch the surface of the pan.\n3. Wash with mild dish soap: Add a few drops of mild dish soap to the pan and use a non-abrasive sponge or cloth to clean the surface. Avoid using steel wool or other abrasive scrubbers that can damage the non-stick coating.\n4. Rinse with water: Rinse the pan thoroughly with warm water to remove any soap residue.\n5. Dry the pan: Use a soft, clean towel to dry the pan thoroughly. Avoid air-drying the pan, as this can lead to water spots and discoloration.\n",
+      "category": "PAN",
+      "name": "aluminum frying pan",
+      "cookwareType": "frying pan",
+      "description": "An aluminum frying pan is a type of cookware that is made from aluminum, a lightweight and highly conductive metal. Aluminum frying pans are popular among home cooks and professional chefs alike for their excellent heat conductivity, which allows them to heat up quickly and cook food evenly.\n\nAluminum frying pans are also relatively affordable compared to other types of cookware. They are often coated with a non-stick surface to prevent food from sticking, making them a great choice for cooking delicate foods like eggs and pancakes.\n\nHowever, there are some downsides to using aluminum frying pans. Because aluminum is a reactive metal, it can react with acidic foods and cause discoloration or a metallic taste. Additionally, aluminum cookware is not suitable for use on induction cooktops unless it has a layer of magnetic material on the bottom.",
+      "material": "aluminum",
+      "Recipes": ["rec6eWtU37F3R5H7o"]
+    }
+  },
+  {
+    "id": "recTsXHHnmxb8YIfD",
+    "createdTime": "2023-05-02T22:32:58.000Z",
+    "fields": {
+      "cleaningInstructions": "1. rinse it under running water and use a sponge or dishcloth with a mild detergent to remove any food residue. \n2. If the spatula is particularly dirty, you can soak it in warm, soapy water for a few minutes before cleaning it. \n3. Rinse the spatula thoroughly with water and dry it with a clean towel or air dry. \n4. Avoid using abrasive cleaners or scrubbers that may damage the surface of the spatula.\n",
+      "category": "TOOL",
+      "name": "silicone spatula",
+      "cookwareType": "spatula",
+      "description": "Silicone spatulas are a type of kitchen tool made from silicone, a flexible and heat-resistant material that is safe for use with non-stick cookware. Silicone spatulas are typically flat and rectangular in shape, with a handle on one end and a flat, slightly curved surface on the other. They come in different sizes, ranging from small spatulas used for spreading butter or frosting to larger ones used for flipping and turning food.\n\nSilicone spatulas are non-stick and heat-resistant\n\n",
+      "material": "silicone"
+    }
+  },
+  {
+    "id": "recVZeGN66EzgdaiJ",
+    "createdTime": "2023-05-02T22:22:58.000Z",
+    "fields": {
+      "cleaningInstructions": "1. Allow the pan to cool completely before cleaning.\n2. Wipe the interior of the pan with a paper towel or soft sponge to remove any loose food particles.\n3. Fill the pan with warm water and add a few drops of dish soap.\n4. Use a soft sponge or cloth to scrub the interior of the pan, avoiding any abrasive materials or harsh scrubbers that could damage the nonstick coating.\n5. Rinse the pan thoroughly with warm water, making sure to remove all soap residue.\n6. Dry the pan with a soft towel or allow it to air dry.\n\n",
+      "category": "PAN",
+      "name": "nonstick frying pan",
+      "cookwareType": "frying pan",
+      "description": "A nonstick frying pan is a type of cookware that features a special coating on the cooking surface that prevents food from sticking. The sloping sides of a frying pan allow for easy flipping and tossing of ingredients. This type of cookware is often preferred for cooking delicate foods like eggs, pancakes, and fish, as it makes it easy to flip and remove food from the pan without it sticking or breaking apart.\n\n",
+      "material": "nonstick"
+    }
+  },
+  {
+    "id": "recWA5xNny5rcZaHS",
+    "createdTime": "2023-05-02T22:26:19.000Z",
+    "fields": {
+      "cleaningInstructions": "1. Allow the bowl to cool completely before cleaning.\n2. Use a soft sponge or cloth to wipe the interior and exterior of the bowl to remove any loose food particles.\n3. Fill the bowl with warm water and add a few drops of dish soap.\n4. Use a soft sponge or cloth to scrub the interior of the bowl, avoiding any abrasive materials or harsh scrubbers that could damage the glaze.\n5. Rinse the bowl thoroughly with warm water, making sure to remove all soap residue.\n6. Dry the bowl with a soft towel or allow it to air dry.\n\n",
+      "category": "POT",
+      "name": "ceramic soup bowl",
+      "cookwareType": "soup bowl",
+      "description": "A ceramic soup bowl is a type of dishware that is used for serving soups, stews, and other hot liquids. Ceramic soup bowls are typically made from clay or porcelain and are known for their ability to retain heat, which helps keep the soup or stew hot for longer.\n\nCeramic soup bowls come in different shapes and sizes, but they are typically round with a wide opening and a handle on one side. Some bowls may also have a lid to help keep the contents hot and prevent spills.",
+      "material": "ceramic",
+      "Recipes": ["recT7ayISKSz9C8un"]
+    }
+  },
+  {
+    "id": "recc2BEHxouweHy4h",
+    "createdTime": "2023-05-02T22:32:51.000Z",
+    "fields": {
+      "cleaningInstructions": "1. To clean a roasting pan, allow it to cool first. \n2. Remove any leftover food and rinse the pan with hot water. If there are stubborn food stains or grease, you may soak the pan with hot soapy water for a few hours before cleaning. \n3. Use a scrubbing pad or brush to clean the pan gently. \n4. Avoid using abrasive cleaners or metal utensils that may scratch the surface of the pan. \n5. Rinse the pan thoroughly with hot water and dry it with a clean towel.\n\n\n\n",
+      "category": "PAN",
+      "name": "cast iron roasting pan",
+      "cookwareType": "roasting pan",
+      "description": "A roasting pan is a large, deep, and heavy-duty pan used for cooking large cuts of meat or poultry in the oven. It typically has low sides and two handles for easy lifting.",
+      "material": "cast iron"
+    }
+  },
+  {
+    "id": "recgtCVSMzGm6Nwjy",
+    "createdTime": "2023-05-02T22:27:18.000Z",
+    "fields": {
+      "cleaningInstructions": "1. Allow the saucier to cool down completely before cleaning.\n2. Fill the saucier with warm water and add a few drops of dish soap.\n3. Use a soft sponge or cloth to scrub the interior of the saucier, avoiding any abrasive materials that could scratch the surface.\n4. Rinse the saucier thoroughly with warm water, making sure to remove all soap residue.\n5. Dry the saucier with a soft towel or allow it to air dry.\n",
+      "category": "POT",
+      "name": "stainless steel saucier",
+      "cookwareType": "saucier",
+      "description": "A stainless steel saucier is a type of pot that has a rounded shape with a wide, flat bottom and sloping sides. It is typically made of stainless steel, which is a durable and long-lasting material that is resistant to rust and corrosion. The saucier is designed to be used for making sauces, soups, and stews, as the wide base provides plenty of room for stirring and whisking, while the sloping sides help prevent ingredients from sticking and burning.\n\n",
+      "material": "stainless steel",
+      "Recipes": ["recgUKbxnQssl9fYc"]
+    }
+  },
+  {
+    "id": "reciZHMqHzoR2wcwf",
+    "createdTime": "2023-05-02T22:12:29.000Z",
+    "fields": {
+      "cleaningInstructions": "1. Let the skillet cool down: Never clean a hot cast iron skillet. Let it cool down to room temperature before you start cleaning.\n2. Remove any food residue: Use a soft plastic or silicone spatula to scrape off any food residue. If the food is stuck on, fill the skillet with warm water and let it soak for a few minutes to loosen the residue.\n3. Wash with hot water: Rinse the skillet with hot water and use a soft sponge or brush to scrub away any remaining food residue. Avoid using soap, as it can strip the seasoning from the skillet.\n4. Dry the skillet: Use a clean, dry towel to dry the skillet completely. If necessary, place the skillet on the stove over low heat to help evaporate any remaining moisture.\n5. Apply a thin layer of oil: Once the skillet is completely dry, apply a thin layer of oil to the surface to prevent rust and maintain the seasoning. You can use vegetable oil, canola oil, or any other type of cooking oil.\n",
+      "category": "PAN",
+      "name": "cast iron skillet",
+      "cookwareType": "skillet",
+      "description": "A cast iron skillet is a type of frying pan made from cast iron that is known for its durability, versatility, and ability to retain heat. Cast iron skillets are popular among home cooks and professional chefs alike for their ability to cook food evenly and create a crispy, golden crust.\n\n",
+      "material": "cast iron",
+      "Recipes": ["recWXmXIUudUBe3zi", "recsNvpGf4MoaSDsO", "rec3j49yFpY2uRNM1"]
+    }
+  },
+  {
+    "id": "reclgEwtjw4XhybjT",
+    "createdTime": "2023-05-02T22:28:05.000Z",
+    "fields": {
+      "cleaningInstructions": "1. Allow the saucepan to cool down completely before cleaning.\n2. Fill the saucepan with warm water and add a few drops of dish soap.\n3. Use a soft sponge or cloth to scrub the interior of the saucepan, avoiding any abrasive materials that could scratch the surface.\n4. Rinse the saucepan thoroughly with warm water, making sure to remove all soap residue.\n5. Dry the saucepan with a soft towel or allow it to air dry.\n",
+      "category": "PAN",
+      "name": "copper sauce pan",
+      "cookwareType": "saucepan",
+      "description": "A copper saucepan is a type of pot that is made of copper, a highly conductive metal that heats up quickly and evenly. It typically has a long, straight handle and a lid that fits tightly on top. Copper saucepans are popular for cooking sauces, soups, and other liquid dishes because they heat up quickly and distribute heat evenly.\n\n",
+      "material": "copper"
+    }
+  },
+  {
+    "id": "recm99uOvjVEuCdNR",
+    "createdTime": "2023-05-02T22:29:22.000Z",
+    "fields": {
+      "cleaningInstructions": "1. Allow the steamer to cool down completely before cleaning.\n2. Rinse the steamer with warm water and use a soft sponge or brush to remove any food residue.\n3. Avoid using soap or other cleaning agents that can be absorbed by the bamboo and alter the flavor of the food.\n4. Rinse the steamer thoroughly with warm water, making sure to remove all debris.\n5. Allow the steamer to air dry completely before storing it away.\n6. Avoid exposing it to direct sunlight or heat, as this can cause the bamboo to dry out and crack. After each use, wipe the steamer with a clean cloth or paper towel and allow it to air dry completely before storing it in a cool, dry place.\n\n",
+      "category": "POT",
+      "name": "bamboo steamer",
+      "cookwareType": "steamer",
+      "description": "A bamboo steamer is a traditional Chinese cooking tool used for steaming food. It is made of interlocking bamboo trays that stack on top of each other, allowing multiple dishes to be steamed at the same time. Bamboo steamers are versatile and can be used to cook everything from dumplings and buns to vegetables and fish.\n\n",
+      "material": "bamboo"
+    }
+  },
+  {
+    "id": "recqqJngf4BlcIXTw",
+    "createdTime": "2023-05-02T22:35:46.000Z",
+    "fields": {
+      "cleaningInstructions": "1. Rinse it under warm water to remove any loose food particles. \n2. Then, fill a bowl or sink with warm, soapy water and submerge the whisk in the water. \n3. Gently rub the wires with a sponge or soft-bristled brush to remove any remaining food residue. \n4. Rinse the whisk thoroughly under running water to remove any soap, and then shake it dry to remove excess water. \n5. Finally, store the whisk in a dry place until it is ready to be used again.\n6. If the whisk has particularly stubborn food residue or is greasy, you may need to use a stronger cleaning solution, such as white vinegar or baking soda. To do this, create a paste by mixing equal parts white vinegar and baking soda, and apply it to the wires of the whisk. Let the paste sit for a few minutes before rinsing it off with warm water.\n",
+      "category": "TOOL",
+      "name": "metal whisk",
+      "cookwareType": "whisk",
+      "description": "Metal whisks are a kitchen tool used for blending and mixing ingredients together. They are typically made from stainless steel, which is durable, corrosion-resistant, and easy to clean. Metal whisks are designed with a series of wire loops that are attached to a handle, and come in different sizes for various tasks.\n\nThe wire loops of a metal whisk are used to beat air into ingredients, creating a lighter texture and incorporating air bubbles. They are commonly used for whipping cream, beating egg whites, and mixing cake batter.\n\n\n\n",
+      "material": "metal"
+    }
+  },
+  {
+    "id": "rect8PL4mSi3PQtnT",
+    "createdTime": "2023-05-02T22:28:35.000Z",
+    "fields": {
+      "cleaningInstructions": "1. Allow the wok to cool down completely before cleaning.\n2. Rinse the wok with warm water and use a soft sponge or cloth to scrub away any food residue.\n3. If necessary, use a small amount of soap to clean the wok, but avoid using harsh detergents or abrasive materials that can damage the surface.\n4. Rinse the wok thoroughly with warm water, making sure to remove all soap residue.\n5. Dry the wok with a soft towel or allow it to air dry.\n6. eason the wok to prevent rust and maintain its non-stick surface. To do this, heat the wok over medium heat and add a small amount of oil, then use a paper towel or cloth to spread the oil around the inside of the wok. Repeat this process a few times, allowing the oil to absorb into the metal, then store the wok in a dry, cool place.\n\n",
+      "category": "PAN",
+      "name": "carbon steel wok",
+      "cookwareType": "wok",
+      "description": "A carbon steel wok is a type of pan that is used primarily in Asian cooking. It has a round bottom, sloping sides, and a long handle that is used for tossing and stirring food. Carbon steel is a durable, lightweight material that heats up quickly and evenly, making it ideal for stir-frying and other high-heat cooking methods.\n\n",
+      "material": "carbon steel",
+      "Recipes": ["rec6eWtU37F3R5H7o"]
+    }
+  },
+  {
+    "id": "recwgbqD0IaExTfaB",
+    "createdTime": "2023-05-02T22:22:18.000Z",
+    "fields": {
+      "cleaningInstructions": "1. Allow the pan to cool completely before cleaning.\n2. Use a soft sponge or cloth to wipe away any loose food debris or residue.\n3. Fill the pan with warm water and add a few drops of dish soap.\n4. Use a soft sponge or cloth to scrub the interior of the pan, avoiding any abrasive materials or harsh scrubbers that could damage the nonstick coating.\n5. Rinse the pan thoroughly with warm water, making sure to remove all soap residue.\n6. Dry the pan with a soft towel or allow it to air dry.\n",
+      "category": "PAN",
+      "name": "nonstick saucepan",
+      "cookwareType": "saucepan",
+      "description": "A nonstick saucepan is a type of cookware that features a special coating on the cooking surface that prevents food from sticking. This type of cookware is often preferred for cooking delicate foods like eggs, fish, and vegetables, as it makes it easy to flip and remove food from the pan without it sticking or breaking apart.",
+      "material": "nonstick"
+    }
+  },
+  {
+    "id": "reczZWni29MVqwaNM",
+    "createdTime": "2023-05-02T22:12:29.000Z",
+    "fields": {
+      "cleaningInstructions": "1. Let the Dutch oven cool down: Never clean a hot Dutch oven. Let it cool down to room temperature before you start cleaning.\n2. Remove any food residue: Use a soft plastic or silicone spatula to scrape off any food residue. If the food is stuck on, fill the Dutch oven with warm water and let it soak for 10-15 minutes to loosen the residue.\n3. Wash with mild dish soap: Add a few drops of mild dish soap to the Dutch oven and use a soft sponge or cloth to clean the surface. Avoid using abrasive cleaners or steel wool that can damage the surface of the pot.\n4. Rinse with water: Rinse the Dutch oven thoroughly with warm water to remove any soap residue.\n5. Dry the Dutch oven: Use a soft, clean towel to dry the Dutch oven completely. If the Dutch oven is made of cast iron, you may need to coat it with a thin layer of oil to prevent rust.\n",
+      "category": "POT",
+      "name": "cast iron dutch oven",
+      "cookwareType": "dutch oven",
+      "description": "A Dutch oven is a type of heavy, thick-walled cooking pot that is typically made of cast iron or enameled cast iron. It is commonly used for braising, stewing, and cooking soups and other dishes that require long, slow cooking. Dutch ovens can be used on the stove, in the oven, or over an open fire, making them a versatile and popular piece of cookware.",
+      "material": "cast iron"
+    }
+  }
+]

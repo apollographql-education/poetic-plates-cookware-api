@@ -24,9 +24,7 @@
     "@apollo/server": "^4.0.0",
     "@apollo/subgraph": "^2.3.1",
     "graphql": "latest",
-    "graphql-tag": "latest",
-    "@graphql-tools/mock": "^8.7.20",
-    "@graphql-tools/schema": "^9.0.19"
+    "graphql-tag": "latest"
   },
   "devDependencies": {
     "jest": "29.5.0",

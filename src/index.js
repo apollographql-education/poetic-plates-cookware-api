@@ -5,12 +5,11 @@ const { buildSubgraphSchema } = require("@apollo/subgraph");
 const { startStandaloneServer } = require("@apollo/server/standalone");
 const { GraphQLError } = require("graphql");
 const resolvers = require("./resolvers");
-const { addMocksToSchema } = require("@graphql-tools/mock");
-const { makeExecutableSchema } = require("@graphql-tools/schema");
 const {
   ApolloServerPluginLandingPageLocalDefault,
   ApolloServerPluginLandingPageProductionDefault,
 } = require("@apollo/server/plugin/landingPage/default");
+const CookwareAPI = require("./datasources/cookware-api");
 
 const port = process.env.PORT ?? 4002;
 const subgraphName = require("../package.json").name;
@@ -22,10 +21,8 @@ async function main() {
       encoding: "utf-8",
     })
   );
-  const schema = buildSubgraphSchema({ typeDefs, resolvers });
-  const mockedSchema = addMocksToSchema({ schema, preserveResolvers: true });
   const server = new ApolloServer({
-    schema: mockedSchema,
+    schema: buildSubgraphSchema({ typeDefs, resolvers }),
     introspection: true,
     plugins: [
       process.env.NODE_ENV === "production"
@@ -48,6 +45,12 @@ async function main() {
           },
         });
       }
+      const { cache } = server;
+      return {
+        dataSources: {
+          cookwareAPI: new CookwareAPI({ cache }),
+        },
+      };
     },
     listen: {
       port,

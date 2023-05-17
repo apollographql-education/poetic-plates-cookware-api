@@ -1,10 +1,10 @@
-# Poetic Plates: Cookware Subgraph
+# Poetic Plates: Kitchenware Subgraph
 
-A GraphQL subgraph server about cookware.
+A GraphQL subgraph server about kitchenware: pots, pans and kitchen utensils.
 
-The API is hosted at: [TODO]
+The API is hosted at: https://poetic-plates-kitchenware-api.herokuapp.com/
 
-You can use the Sandbox Explorer to run queries. Head to https://studio.apollographql.com/sandbox and connect to the API [TODO].
+You can use the Sandbox Explorer to run queries. Head to https://studio.apollographql.com/sandbox and connect to the API: https://poetic-plates-kitchenware-api.herokuapp.com/.
 
 To learn how to use this API to get started with GraphOS, check out our [Odyssey course](https://apollographql.com/tutorials/) (coming soon!).
 

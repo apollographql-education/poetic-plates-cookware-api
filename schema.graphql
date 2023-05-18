@@ -8,6 +8,9 @@ type Query {
   cookware(name: String): Cookware
 }
 
+"""
+Cookware refers to food preparation equipment, such as pots and pans.
+"""
 type Cookware @key(fields: "name") {
   "The name of the cookware, typically includes the material it's made of. For example: aluminum frying pan"
   name: String!
@@ -15,4 +18,28 @@ type Cookware @key(fields: "name") {
   description: String
   "Detailed instructions on how to clean the cookware"
   cleaningInstructions: [String]
+}
+
+"""
+Utensils refer to tools used for food preparation, such as spatulas and whisks.
+"""
+type Utensil @key(fields: "name") {
+  "The name of the kitchen utensil"
+  name: String!
+  "A description of the kitchen utensil, what it looks like and what it's typically used for."
+  description: String
+}
+
+"""
+Kitchen appliances are machines that assist in cooking, such as blenders and rice cookers.
+"""
+type Appliance @key(fields: "name brandCompanyName") {
+  "The name of the kitchen appliance"
+  name: String!
+  "The brand of kitchen appliance"
+  brandCompanyName: String!
+  "A description of the kitchen appliance, what it looks like and what it's typically used for."
+  description: String
+  "Measured in kilowatts per hour (kWh)"
+  yealyElectricityUse: Int
 }
